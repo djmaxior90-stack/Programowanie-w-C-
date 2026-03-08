@@ -19,7 +19,7 @@ Makefile.win
 *.bak
 *.tmp
 
-# --- Foldery budowania (jeśli używasz) ---
+# --- Foldery budowania (jeśli używasz) ---?
 Debug/
 Release/
 bin/
