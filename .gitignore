@@ -1,0 +1,26 @@
+# --- Pliki wykonywalne (wynik kompilacji) ---
+*.exe
+*.out
+*.app
+
+# --- Pliki obiektowe i tymczasowe ---
+*.o
+*.obj
+*.o.d
+
+# --- Pliki projektu Dev-C++ ---
+# Ignorujemy pliki konfiguracji lokalnej i pliki budowania, 
+# ale zachowujemy sam plik projektu .dev (opcjonalnie)
+Makefile.win
+*.layout
+
+# --- Logi i pliki kopii zapasowych ---
+*.log
+*.bak
+*.tmp
+
+# --- Foldery budowania (jeśli używasz) ---
+Debug/
+Release/
+bin/
+obj/
